@@ -1,0 +1,9 @@
+.end {
+    display: flex;
+    margin-top: 100px;
+    border-width: 1px;
+    border-color: black;
+    background-color: hsl(0, 0%, 99%);
+    justify-content: center;
+    padding: 15px;
+}

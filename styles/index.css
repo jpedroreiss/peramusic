@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap');
+
+@import url("/styles/global.css");
+@import url("/styles/components/menu-bar.css");
+@import url("/styles/components/categories.css");
+@import url("/styles/components/buttons.css");
+@import url("/styles/components/paragraph.css");
+@import url("/styles/components/heading.css");
+@import url("/styles/components/title.css");
+@import url("/styles/reset.css");
+@import url("/styles/components/title.css");
+@import url("/styles/components/end.css");

@@ -1,0 +1,16 @@
+.buttons {
+    font-family: "Inter";
+    position: absolute;
+    width: 351px;
+    height: 51px;
+    left: 12px;
+    top: 634px;
+    border: 0;
+
+    background: #4285F4;
+    border-radius: 4px;
+    color: white;
+    font-weight: bold;
+
+
+}
