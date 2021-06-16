@@ -54,3 +54,33 @@ h4 {
 
     color: #FFFFFF;
 }
+
+h5 {
+    position: absolute;
+    width: 394px;
+    height: 80px;
+
+    font-family: Inter;
+    font-style: italic;
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 20px;
+
+    color: rgba(255, 255, 255, 0.83);
+}
+
+p {
+    position: absolute;
+    width: 394px;
+    height: 80px;
+
+    font-family: Inter;
+    font-style: italic;
+    font-weight: bold;
+    font-size: 12px;
+    line-height: 20px;
+
+    color: rgba(255, 255, 255, 0.83);
+}
+
+
