@@ -11,6 +11,8 @@
     border-radius: 4px;
     color: white;
     font-weight: bold;
+}
 
-
+.buttons:hover {
+    background: #326AC6;
 }
