@@ -1,11 +1,28 @@
 .buttons {
     font-family: "Inter";
-    position: absolute;
     width: 351px;
     height: 51px;
-    left: 12px;
-    top: 634px;
     border: 0;
+    margin-left: 12px;
+    margin-top: 29px;
+
+    background: #4285F4;
+    border-radius: 4px;
+    color: white;
+    font-weight: bold;
+}
+
+.buttons:hover {
+    background: #326AC6;
+}
+
+.buttons-two {
+    font-family: "Inter";
+    width: 351px;
+    height: 51px;
+    border: 0;
+    margin-left: 12px;
+    margin-top: 37px;
 
     background: #4285F4;
     border-radius: 4px;

@@ -1,0 +1,162 @@
+.recent {
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 22px;
+    letter-spacing: 0px;
+    text-align: left;
+    margin-left: 12px;
+    margin-top: 24px;
+
+}
+
+.big-playlist {
+    width: 351px;
+    height: 180px;
+    margin-top: 16px;
+    margin-left: 12px;
+    margin-right: 12px;
+}
+
+.recent-name {
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 19px;
+    letter-spacing: 0px;
+    text-align: left;
+    margin-left: 16px;
+    margin-top: 16px;
+}
+
+.recent-description {
+    display: flex;
+    margin-left: 16px;
+    margin-top: 4px;
+}
+
+.recent-caractere {
+    margin-left: 8px;
+}
+
+.recent-musics {
+    margin-left: 8px;
+
+    font-family: Inter;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 12px;
+    line-height: 15px;
+
+    color: rgba(47, 47, 47, 0.6);
+}
+
+.recent-singer {
+    font-family: Inter;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 12px;
+    line-height: 15px;
+
+    color: rgba(47, 47, 47, 0.6);
+}
+
+.the-total {
+    width: 171px;
+    height: 146px;
+    margin-left: 12px;
+    margin-top: 26px;
+}
+
+.text-total {
+    margin-top: 12px;
+    margin-left: 24px;
+
+    font-family: Inter;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 17px;
+
+    color: #2F2F2F
+
+}
+
+.text-dtotal {
+    margin-left: 24px;
+    margin-top: 6px;
+    
+    font-family: Inter;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 12px;
+    line-height: 15px;
+
+    color: rgba(47, 47, 47, 0.6);
+}
+
+.chateau {
+    width: 171px;
+    height: 146px;
+    margin-left: 12px;
+    margin-top: 26px;
+    margin-left: 10px;
+}
+
+.text-chateau {
+    margin-top: 12px;
+    margin-left: 24px;
+
+    font-family: Inter;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 17px;
+
+    color: #2F2F2F
+
+}
+
+.text-dchateau {
+    margin-left: 24px;
+    margin-top: 6px;
+    
+    font-family: Inter;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 12px;
+    line-height: 15px;
+
+    color: rgba(47, 47, 47, 0.6);
+}
+
+.playlist-home-one {
+    display: flex;
+}
+
+.playlist-home-two {
+    display: flex;
+}
+
+.more-description {
+    display: flex;
+    margin-left: 16px;
+}
+
+.maisouvidas {
+    margin-top: 24px;
+    margin-left: 12px;
+    
+    font-family: Inter;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 22px;
+
+    color: #2F2F2F;
+}
+
+.more-playlist {
+    padding-bottom: 26px;
+}
+
